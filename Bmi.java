@@ -1,5 +1,5 @@
 import java.util.*;
-public class Main {
+public class Bmi {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("1人目の身長(m)と体重を入力↓");
